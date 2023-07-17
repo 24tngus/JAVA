@@ -9,6 +9,8 @@ public class baek6 {
         int n = in.nextInt();
 
         System.out.println(arr[n - 1]);
+
+        in.close();
     }
     
 }

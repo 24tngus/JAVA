@@ -11,5 +11,7 @@ public class baek8 {
             String[] arr = in.next().split("");
             System.out.println(arr[0] + arr[arr.length - 1]);
         }
+
+        in.close();
     }
 }

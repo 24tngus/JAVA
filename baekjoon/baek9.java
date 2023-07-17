@@ -8,5 +8,7 @@ public class baek9 {
 
         char C = in.next().charAt(0);
         System.out.println((int)C);
+
+        in.close();
     }
 }

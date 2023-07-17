@@ -14,5 +14,7 @@ public class baek10 {
             sum += Integer.parseInt(arr[i]);
         }
         System.out.println(sum);
+
+        in.close();
     }
 }

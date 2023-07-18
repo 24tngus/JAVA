@@ -1,13 +1,14 @@
-// 아스키 코드
+// 단어 길이 재기
 
 import java.util.*;
 
-public class baek9 {
+public class baek5_7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        char C = in.next().charAt(0);
-        System.out.println((int)C);
+        String[] arr = in.next().split("");
+
+        System.out.println(arr.length);
 
         in.close();
     }

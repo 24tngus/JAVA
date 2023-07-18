@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class baek11 {
+public class baek5_11 {
     public static void main(String[] args) {
         Scanner in = new Scanner (System.in);
 

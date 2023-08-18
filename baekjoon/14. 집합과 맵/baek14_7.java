@@ -1,4 +1,4 @@
-// 
+// 대칭 차집합
 
 import java.util.*;
 

@@ -16,7 +16,6 @@ public class baek14_7
         int B = Integer.parseInt(st.nextToken());
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < A; i++) {
-            
         }
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < B; i++) {

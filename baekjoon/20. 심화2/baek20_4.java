@@ -15,7 +15,6 @@ public class baek20_4 {
             sum += arr[i];
         }
         Arrays.sort(arr);
-
         int count = 0;
         int max = -1;
         int mod = arr[0];

@@ -17,6 +17,7 @@ public class baek14_7
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < A; i++) {
         }
+        
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < B; i++) {
             

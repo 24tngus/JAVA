@@ -12,12 +12,13 @@ public class baek14_7
 
         HashMap<Integer, Integer> map_A = new HashMap<>();
         HashMap<Integer, Integer> map_B = new HashMap<>();
+        
         int A = Integer.parseInt(st.nextToken());
         int B = Integer.parseInt(st.nextToken());
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < A; i++) {
         }
-        
+
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < B; i++) {
             

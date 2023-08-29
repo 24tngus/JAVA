@@ -14,6 +14,7 @@ public class baek14_8 {
                 set.add(s.substring(i, j));
             }
         }
+        
         System.out.println(set.size());
         in.close();
     }

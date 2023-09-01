@@ -17,6 +17,7 @@ public class baek16_5 {
         }
 
         int start = 1;
+        
         while (!queue.isEmpty())
         {
             if (queue.peek() == start)
